@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "type": "Barbarian",
+      "w1": "Axe",
+      "w2": "Mace",
+      "w3": "Broadsword"
+    },
+    {
+      "id": 1,
+      "type": "Mage",
+      "w1": "Bone Staff",
+      "w2": "Crystal Staff",
+      "w3": "Wooden Staff"
+    },
+    {
+      "id": 2,
+      "type": "Thief",
+      "w1": "Dagger",
+      "w2": "Shortsword",
+      "w3": "Throwing Knives"
+    },
+    {
+      "id": 3,
+      "type": "Cleric",
+      "w1": "Holy Sword",
+      "w2": "Miracle Caster",
+      "w3": "Poison"
+    },
+    {
+      "id": 4,
+      "type": "Giant",
+      "w1": "Tree Trunk",
+      "w2": "Boulder",
+      "w3": "Iron Rail"
+    },
+    {
+      "id": 5,
+      "type": "Samurai",
+      "w1": "Katana",
+      "w2": "Bow and Arrows",
+      "w3": "Spear"
+    }
+  ],
+  "locations": [
+    {
+      "id": 0,
+      "direction": "North",
+      "name": "Frozen Mountains",
+      "description": "A cold wilderness filled with freezing winds, an ice dragon and deep crevasses. There is a hidden treasure somewhere within..",
+      "obstacle1": "deep crevasses",
+      "obstacle2": "ice dragon",
+      "obstacle3": "freezing winds"
+    },
+    {
+      "id": 1,
+      "direction": "East",
+      "name": "Arid Desert",
+      "description": "A barren land with scorching temperatures, a giant sand worm and decieving mirages. Somewhere lies a buried treasure chest..",
+      "obstacle1": "decieving mirages",
+      "obstacle2": "giant sand worm",
+      "obstacle3": "scorching temperatures"
+    },
+    {
+      "id": 2,
+      "direction": "South",
+      "name": "Rotten Swamp",
+      "description": "A humid bog teeming with poisonous plants, a hideous monster and quicksand. A precious treasure can be found here somewhere.. ",
+      "obstacle1": "quicksand",
+      "obstacle2": "hideous monster",
+      "obstacle3": "poisonous plants"
+    },
+    {
+      "id": 3,
+      "direction": "West",
+      "name": "Misty Woods",
+      "description": "A haunted forest with terrifying ghosts, a goliath spider and trees that come alive. There exists a priceless treasure at the center..",
+      "obstacle1": "living trees",
+      "obstacle2": "goliath spider",
+      "obstacle3": "terrifying ghosts"
+    }
+  ],
+  "userCharacters": [
+    {
+      "id": 0,
+      "name": "Clay",
+      "type": "Mage",
+      "weapon": "Crystal Staff",
+      "location": {
+        "id": 0,
+        "direction": "North",
+        "name": "Frozen Mountains",
+        "description": "A cold wilderness filled with freezing winds, an ice dragon and deep crevasses. There is a hidden treasure somewhere within..",
+        "obstacle1": "deep crevasses",
+        "obstacle2": "ice dragon",
+        "obstacle3": "freezing winds"
+      },
+      "decisionScore": 1
+    }
+  ]
+}
