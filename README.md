@@ -1,3 +1,15 @@
+# character_quest
+
+Challenge: Design a web application that allows someone to go on a medieval quest that spans several web pages.
+
+Context: For the final project in my Client-Side Programming class I needed to create some type of web application. I created a web app that allows someone to customize their own character, choose a quest location, and make decisions based on the obstacles present in that location.
+
+Action: Using Visual Studio and Vue, I created several pages that begin with the user starting in a medieval location and about to embark on a quest. Once they type in their name, they are directed to create a character by choosing from several different types and then choosing a weapon of choice. At this point, the user can choose which direction to travel in order to discover a hidden treasure. Once the location is decided, they are met with a series of obstacles where decisions are made that result in either favorable or unfavorable outcomes. The final page displays whether they succeeded in their quest or not. This app is designed to only run on the client side, so there is no back-end development. In order to play the game, I run the program from my localhost on my computer. I use the Axios API to retrieve and store user data (concerning their character, quest location, and obstacle decisions).
+
+Result: I successfully completed the web app by the end of the semester and learned how to use Vue to create a single-page application. I learned how to implement efficient code validation and dynamically alter the web page based on user interaction.
+
+Reflection: I enjoyed creating a game for users that changes based on their decisions. Using the single page application (SPA) approach, I was able to create a more responsive and user-friendly web experience.
+
 # clientsidelab6vue
 
 ## Project setup
@@ -21,4 +33,5 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
