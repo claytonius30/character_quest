@@ -1,4 +1,6 @@
-# character_quest
+![image](https://github.com/claytonius30/character_quest/assets/116747177/48ec60ca-5a56-46e6-a9b5-4a83b40d2be5)# character_quest
+
+## CCARR
 
 Challenge: Design a web application that allows someone to go on a medieval quest that spans several web pages.
 
@@ -10,28 +12,38 @@ Result: I successfully completed the web app by the end of the semester and lear
 
 Reflection: I enjoyed creating a game for users that changes based on their decisions. Using the single page application (SPA) approach, I was able to create a more responsive and user-friendly web experience.
 
-# clientsidelab6vue
 
-## Project setup
+## Vue CLI commands to run application in Visual Studio Code
+
+To launch Node.js backend:
 ```
-npm install
+npm run backend
 ```
 
-### Compiles and hot-reloads for development
+To run Vue.js frontend:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Landing page
 
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://github.com/claytonius30/character_quest/assets/116747177/0d06c8f0-a593-4627-bdb8-2726e7b4f237)
 
-### Customize configuration
+## Character/weapon select page
+
+![image](https://github.com/claytonius30/character_quest/assets/116747177/8349c72a-5af1-45c5-92ca-0ab1b384341a)
+
+## Quest select page
+
+![image](https://github.com/claytonius30/character_quest/assets/116747177/5eb21239-2a92-4035-bd73-1f74eed70c78)
+
+## Journey page
+
+![image](https://github.com/claytonius30/character_quest/assets/116747177/f49a0ffe-0e9e-4c51-9859-5e02124fbcc1)
+
+## Quest outcome page
+
+![image](https://github.com/claytonius30/character_quest/assets/116747177/974da90f-15c2-44d7-8984-03c6dea46779)
+
 
 
