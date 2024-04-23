@@ -1,6 +1,6 @@
-![image](https://github.com/claytonius30/character_quest/assets/116747177/48ec60ca-5a56-46e6-a9b5-4a83b40d2be5)# character_quest
+# Character Quest
 
-## CCARR
+My Character Quest game I created as a single page application (SPA) using Vue.
 
 Challenge: Design a web application that allows someone to go on a medieval quest that spans several web pages.
 
